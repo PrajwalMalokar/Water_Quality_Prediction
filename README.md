@@ -31,8 +31,7 @@ The dataset contains various physicochemical properties of water, including:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/water-quality-prediction.git
-   cd water-quality-prediction
+   git clone "https://github.com/PrajwalMalokar/Water_Quality_Prediction.git"
    ```
 2. Install dependencies:
    ```bash
