@@ -22,7 +22,7 @@ The dataset contains various physicochemical properties of water, including:
 ## Project Structure
 
 - `Water_Quality_Prediction.ipynb` - Jupyter Notebook for data analysis, preprocessing, and model training.
-- `app.py` - A Flask/Streamlit web application for water quality prediction.
+- `app.py` - A Streamlit web application for water quality prediction.
 - `svm.pkl` - Serialized Machine Learning model for prediction.
 - `requirements.txt` - Dependencies required to run the project.
 - `README.md` - Documentation of the project.
