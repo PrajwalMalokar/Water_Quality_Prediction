@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load("D:/AICTE Internship1/Water-Quality-Prediction/svm.pkl")
+model = joblib.load("D:/AICTE Internship1/Water_Quality_Prediction/svm.pkl")
 
 
 # Streamlit App Title
