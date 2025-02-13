@@ -73,10 +73,6 @@ The trained model achieves **78% accuracy** on test data, making it a reliable p
 - Collect real-world data for further training.
 - Deploy the application on cloud platforms.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 ### Contributors
