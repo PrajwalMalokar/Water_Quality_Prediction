@@ -79,7 +79,9 @@ The trained model achieves **78% accuracy** on test data, making it a reliable p
 
 - **Prajwal Malokar**
 - **Tanmay Patil**
-- **Yash Gangurde** 
+- **Yash Gangurde**
+- **Prathamesh Pandit**
+- **Pritesh Khopade** 
 
 
 
